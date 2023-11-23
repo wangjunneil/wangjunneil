@@ -20,4 +20,5 @@
 - **Web3**, Solity, ...
 - **Rust**, challenging, all-round, very interesting
 
+---
 <!-- Your badges -->
