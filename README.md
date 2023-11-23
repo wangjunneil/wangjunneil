@@ -15,7 +15,6 @@
 - **Alibaba Group**, Tmall, ToB brand marketing
 - **Ant Group (Alipay)**, International Business Department, cross-border capital R&D services
 - **SAP consulting gold partners company**, Develop enterprise ecosystem around SAP
-
 ### Recent self-challenge:
 - **AI**, Prompt Engineering, LangChain
 - **Web3**, Solity, ...
