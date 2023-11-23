@@ -8,7 +8,7 @@
 
 <!--Introduction -->
 
-<img align="right" alt="img" src="https://raw.githubusercontent.com/wangjunneil/wangjunneil/main/imgs/cover_image.png" width="50%" height="auto" />
+<img align="right" alt="img" src="https://raw.githubusercontent.com/wangjunneil/wangjunneil/main/imgs/cover_image.png" width="55%" height="auto" />
 
 ### My professional trajectory: 
 - **Cainiao Group**, Business Architecture Solutions
