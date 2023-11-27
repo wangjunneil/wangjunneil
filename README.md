@@ -24,3 +24,5 @@
 <!-- Your badges -->
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&color=24E404&background=000000&random=false&width=500&height=30&lines=Code+is+my+passion%2C+typing+away+every+day.+What+a+boring+hobby+it+is.)](https://git.io/typing-svg)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=wangjunneil.wangjunneil&left_color=green&right_color=red)
