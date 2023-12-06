@@ -21,6 +21,34 @@
 - **Rust**, challenging, all-round, very interesting
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-105-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 26.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 83 Contributions in the Year 2023
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 9 Public Repositories 
+ > 
+> 🔑 5 Private Repositories 
+ > 
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               4 repos             ████████░░░░░░░░░░░░░░░░░   30.77 % 
+PHP                      3 repos             ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
+Jupyter Notebook         1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+TypeScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+```
+
+
+
+
+ Last Updated on 06/12/2023 02:46:24 UTC
 <!--END_SECTION:waka-->
 
 ---
