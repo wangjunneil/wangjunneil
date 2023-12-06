@@ -20,6 +20,9 @@
 - **Web3**, Solity, ...
 - **Rust**, challenging, all-round, very interesting
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ---
 <!-- Your badges -->
 
