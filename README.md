@@ -26,9 +26,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&color=24E404&background=000000&random=false&width=500&height=30&lines=Code+is+my+passion%2C+typing+away+every+day.+What+a+boring+hobby+it+is.)](https://git.io/typing-svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2012%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-141-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-64-blue)
 
 **🐱 My GitHub Data** 
 
@@ -103,5 +103,5 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 07/12/2023 03:01:53 UTC
+ Last Updated on 07/12/2023 18:35:16 UTC
 <!--END_SECTION:waka-->
