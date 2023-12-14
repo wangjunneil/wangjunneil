@@ -20,10 +20,10 @@
 - **Web3**, Solity, ...
 - **Rust**, challenging, all-round, very interesting
 
+<br/>
+
 ---
 <!-- Your badges -->
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&color=24E404&background=000000&random=false&width=500&height=30&lines=Code+is+my+passion%2C+typing+away+every+day.+What+a+boring+hobby+it+is.)](https://git.io/typing-svg)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-11%20hrs%2030%20mins-blue)
