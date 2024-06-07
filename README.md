@@ -34,6 +34,8 @@
 
 > 📦 36.4 kB Used in GitHub's Storage 
  > 
+> 🏆 39 Contributions in the Year 2024
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 16 Public Repositories 
@@ -67,19 +69,16 @@ Sunday                   58 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 8 mins              █████████████░░░░░░░░░░░░   51.87 % 
-XML                      4 mins              ████████░░░░░░░░░░░░░░░░░   30.02 % 
-Java                     2 mins              █████░░░░░░░░░░░░░░░░░░░░   18.12 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ                 15 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-cnexport-local-lts       15 mins             ████████████████████████░   97.41 % 
-cndata-subsite           0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      15 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -95,5 +94,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/06/2024 18:36:27 UTC
+ Last Updated on 07/06/2024 18:37:46 UTC
 <!--END_SECTION:waka-->
