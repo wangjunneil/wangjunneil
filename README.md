@@ -26,7 +26,7 @@
 <!-- Your badges -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-214%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-214%20hrs%2045%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -36,7 +36,7 @@
  > 
 > 💼 Opted to Hire
  > 
-> 📜 16 Public Repositories 
+> 📜 17 Public Repositories 
  > 
 > 🔑 4 Private Repositories 
  > 
@@ -67,16 +67,20 @@ Sunday                   58 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     4 mins              █████████████████████████   99.56 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ                 4 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+cndata-subsite           4 mins              █████████████████████████   98.29 % 
+cnexport-local-lts       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+cn-cnsc-client           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      4 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -92,5 +96,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/06/2024 18:37:49 UTC
+ Last Updated on 12/06/2024 18:37:05 UTC
 <!--END_SECTION:waka-->
