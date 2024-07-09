@@ -26,7 +26,7 @@
 <!-- Your badges -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-221%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-221%20hrs%2054%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -69,16 +69,24 @@ Sunday                   58 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     13 mins             █████████████████░░░░░░░░   69.27 % 
+XML                      3 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
+Java                     2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
+Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Sublime Text             13 mins             █████████████████░░░░░░░░   69.27 % 
+IntelliJ IDEA            5 mins              ███████░░░░░░░░░░░░░░░░░░   28.08 % 
+VS Code                  0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          13 mins             █████████████████░░░░░░░░   69.27 % 
+itransfercenter          5 mins              ███████░░░░░░░░░░░░░░░░░░   28.08 % 
+blog-source              0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      19 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -94,5 +102,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/07/2024 18:37:52 UTC
+ Last Updated on 09/07/2024 18:37:35 UTC
 <!--END_SECTION:waka-->
