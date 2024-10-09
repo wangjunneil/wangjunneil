@@ -26,15 +26,13 @@
 <!-- Your badges -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-253%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-254%20hrs%2023%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 39.9 kB Used in GitHub's Storage 
- > 
-> 🏆 50 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -69,16 +67,19 @@ Sunday                   58 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               23 mins             ███████████████████░░░░░░   75.57 % 
+Bash                     5 mins              ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
+Other                    1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
+INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  30 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+redesigned-potato        30 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      30 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -94,5 +95,5 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/10/2024 18:41:17 UTC
+ Last Updated on 09/10/2024 18:41:58 UTC
 <!--END_SECTION:waka-->
