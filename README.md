@@ -34,8 +34,6 @@
 
 > 📦 39.9 kB Used in GitHub's Storage 
  > 
-> 🏆 50 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 20 Public Repositories 
@@ -69,16 +67,16 @@ Sunday                   58 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-YAML                     1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Sublime Text             1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -94,5 +92,5 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/10/2024 18:39:39 UTC
+ Last Updated on 21/10/2024 18:42:41 UTC
 <!--END_SECTION:waka-->
