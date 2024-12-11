@@ -26,13 +26,15 @@
 <!-- Your badges -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-301%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-301%20hrs%2024%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 39.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 51 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -67,16 +69,16 @@ Sunday                   58 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    5 mins              █████████████████████████   100.00 % 
+Text                     6 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Sublime Text             5 mins              █████████████████████████   100.00 % 
+Sublime Text             6 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-aaa                      5 mins              █████████████████████████   100.00 % 
+Unknown Project          6 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      5 mins              █████████████████████████   100.00 % 
+Mac                      6 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -92,5 +94,5 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/12/2024 18:45:33 UTC
+ Last Updated on 11/12/2024 18:45:34 UTC
 <!--END_SECTION:waka-->
