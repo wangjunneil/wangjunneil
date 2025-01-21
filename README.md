@@ -1,10 +1,11 @@
 <!-- Greeting -->
-### You found me. Hi, I'm Calvin Wang, full stack engineer from Shanghai, China.
+### You found me. Hi, I'm Calvin Wang, Full Stack Engineer from China.
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/wangjunneil)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wangjunneil/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:wangjunneil@gmail.com)
 [![Blogger](https://img.shields.io/badge/-Blogger-gray?style=flat&logo=Blogger&logoColor=white)](https://www.wangjun.dev)
+[![X](https://img.shields.io/badge/-Twitter-gray?style=flat&logo=X&logoColor=white)](https://twitter.com/0xICalvin)
 
 <!--Introduction -->
 
