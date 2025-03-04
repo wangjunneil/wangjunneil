@@ -27,7 +27,7 @@
 <!-- Your badges -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-331%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-332%20hrs%2029%20mins-blue)
 
 📅 **I'm Most Productive on Saturday** 
 
@@ -46,7 +46,8 @@ Sunday                   58 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               20 mins             █████████████████████████   100.00 % 
+JavaScript               50 mins             ████████████████████░░░░░   79.99 % 
+YAML                     12 mins             █████░░░░░░░░░░░░░░░░░░░░   20.01 % 
 ```
 
 
