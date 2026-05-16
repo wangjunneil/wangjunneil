@@ -27,5 +27,27 @@
 <!-- Your badges -->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-337%20hrs%2052%20mins-blue?style=flat)
+
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   26 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
+Tuesday                  45 commits          █████░░░░░░░░░░░░░░░░░░░░   21.74 % 
+Wednesday                21 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
+Thursday                 28 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
+Friday                   23 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Saturday                 28 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
+Sunday                   36 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+```
+
 
 <!--END_SECTION:waka-->
